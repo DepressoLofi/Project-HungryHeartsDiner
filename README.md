@@ -4,7 +4,7 @@ Laravel11 practice project
 This is a practice for laravel 11 web project. Year - 2024
 
 Inspired by a game called - Hungry Hearts Diner
-Tech used - Laravel11, bootstrap 5, Laravel Breeze
+Tech used - Laravel11, bootstrap 4, Laravel Breeze
 
 Functions
 - Users can login, register, logout
